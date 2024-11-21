@@ -8,20 +8,21 @@ education:
   - course: Master, Computer Science
     institution: NDSU
     year: 2022
+    
 first_name: Mabel
 highlight_name: true
 
 interests:
-- Statistical Inference, Data Science, Machine Learning, 
+- Mathematical Statistics, Statistical Machine Learning, Data Science
 
 
 
 last_name: Yao
-# name_pronunciation: Mabel Qianqian Yao
+# name_pronunciation: Mabel Yao
 organizations:
 - name: NDSU
   url: 
-role: PhD Candidate focusing on statistical science, data science & machine learning
+role: PhD Candidate in Statistics and Machine Learning
 
 skills:
 - items:
@@ -76,8 +77,7 @@ social:
 status:
   icon: ☕️
 superuser: true
-title: Mabel Qianqian Yao
+title: Mabel Yao
 ---
-
-Mabel Qianqian Yao is a doctoral graduate student, focusing on statistical theory, data science and machine learning. 
+. refer CV above
 {style="text-align: justify;"}
