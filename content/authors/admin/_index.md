@@ -69,6 +69,10 @@ social:
 - icon: cv
   icon_pack: ai
   link: uploads/Mabel_Yao__cv.pdf
+- icon: twitter
+  icon_pack: fab
+  link: https://x.com/zibuyu34788319
+
 status:
   icon: ☕️
 superuser: true
