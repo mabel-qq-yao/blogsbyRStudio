@@ -13,7 +13,7 @@ first_name: Mabel
 highlight_name: true
 
 interests:
-- Mathematical Statistics, Statistical Machine Learning, Data Science
+- Statistical Inference, Statistical Machine Learning, Data Science
 
 
 
@@ -31,26 +31,17 @@ skills:
     icon_pack: fab
     name: Programmings 
     percent: 100
-  - description: "statistical science, machine learning, data science, "
+  - description: "theoretical statistics, statistical machine learning"
     icon: chart-line
     icon_pack: fas
-    name: Data Science & Machine Learning
+    name: Statistics, Machine Learning, Data Science
     percent: 100
-  - description: "analysis, modeling, inference, "
-    icon: book
-    icon_pack: fas
-    name: Statistical Science
   - description: "SQL, HTML/CSS/JavaScript, Anaconda, Java, Algorithms, "
     icon: database
     icon_pack: fas
     name: Computer Science
     percent: 100
-  - description: "engineering, life sciences, "
-    icon: apple
-    icon_pack: fas
-    name: Computational Science
-    percent: 100
-  name: Techniques
+  name: Interests and Skills
   
 
 
