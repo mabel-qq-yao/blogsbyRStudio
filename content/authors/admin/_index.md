@@ -4,10 +4,10 @@ education:
   courses:
   - course: PhD, Statistics
     institution: NDSU
-    year: 2026
+    year: 
   - course: Master, Computer Science
     institution: NDSU
-    year: 2022
+    year: 
     
 first_name: Mabel
 highlight_name: true
