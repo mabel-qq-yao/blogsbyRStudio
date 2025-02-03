@@ -35,11 +35,7 @@ skills:
     icon: chart-line
     icon_pack: fas
     name: Statistics, Machine Learning, Data Science
-    percent: 100
-  - description: "SQL, HTML/CSS/JavaScript, Anaconda, Java, Algorithms, "
-    icon: database
-    icon_pack: fas
-    name: Computer Science
+   
     percent: 100
   name: Interests and Skills
   
