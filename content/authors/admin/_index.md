@@ -22,7 +22,7 @@ last_name: Yao
 organizations:
 - name: NDSU
   url: 
-role: PhD Candidate in Statistics and Machine Learning
+role: Statisical Inference and Statistical Machine Learning
 
 skills:
 - items:
