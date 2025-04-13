@@ -47,19 +47,19 @@ social:
     header: true
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=S7k_gdkAAAAJ&hl=en
+  link:
 - icon: github
   icon_pack: fab
-  link: https://github.com/mabel-qq-yao
+  link: 
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/mabelqqy/
+  link: 
 - icon: cv
   icon_pack: ai
   link: uploads/Mabel_Yao__cv.pdf
 - icon: twitter
   icon_pack: fab
-  link: https://x.com/zibuyu34788319
+  link: 
 
 status:
   icon: ☕️
