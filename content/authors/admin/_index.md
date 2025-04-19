@@ -2,39 +2,40 @@
 bio: 
 education:
   courses:
-  - course: PhD, Statistics
-    institution: NDSU
+  - course: 
+    institution: 
     year: 
-  - course: Master, Computer Science
-    institution: NDSU
+  - course: 
+    institution: 
     year: 
     
-first_name: Mabel
+first_name: 
 highlight_name: true
 
 interests:
-- Statistical Inference, Statistical Machine Learning, Data Science
+- 
 
 
 
-last_name: Yao
-# name_pronunciation: Mabel Yao
+last_name: 
+
 organizations:
-- name: NDSU
+- name: 
   url: 
-role: Statisical Inference and Statistical Machine Learning
+  
+role: 
 
 skills:
 - items:
-  - description: "Python, R, SAS, Julia, Latex, etc."
+  - description: 
     icon: python
     icon_pack: fab
-    name: Programmings 
+    name: 
     percent: 100
-  - description: "theoretical statistics, statistical machine learning"
+  - description: 
     icon: chart-line
     icon_pack: fas
-    name: Statistics, Machine Learning, Data Science
+    name: 
    
     percent: 100
   name: Interests and Skills
@@ -56,7 +57,7 @@ social:
   link: 
 - icon: cv
   icon_pack: ai
-  link: uploads/Mabel_Yao__cv.pdf
+  link: uploads/
 - icon: twitter
   icon_pack: fab
   link: 
@@ -64,7 +65,7 @@ social:
 status:
   icon: ☕️
 superuser: true
-title: Mabel Yao
+title: 
 ---
-. refer CV above
+
 {style="text-align: justify;"}
